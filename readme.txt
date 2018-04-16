@@ -11,3 +11,8 @@ deleting branch locally // git branch -d localBranchName
 
 git branch merging // 1.git checkout master 
                       2.git merge branchname
+testing
+branch created 
+git push --set-upstream origin rony //git setting upstream branch 
+testing mathan
+

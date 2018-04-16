@@ -6,3 +6,8 @@ shift + cmd + p // git commands
 creating new branch // git branch branchname
 checkout branch // git checkout branchname
 pushing branch to git repo // git push origin branchname 
+deleting branch from git repo // git push origin :branchname
+deleting branch locally // git branch -d localBranchName
+
+git branch merging // git checkout master 
+                      git merge branchname

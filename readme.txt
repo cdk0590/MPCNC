@@ -4,4 +4,5 @@ initial commit and cmd + enter
 shift + cmd + p // git commands
 
 testing
-branch created
+branch created 
+git push --set-upstream origin rony //git setting upstream branch 

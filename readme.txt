@@ -3,4 +3,6 @@ git remote add origin https://github.com/cdk0590/Senior_Design.git
 initial commit and cmd + enter
 shift + cmd + p // git commands
 
-testing 
+creating new branch // git branch branchname
+checkout branch // git checkout branchname
+pushing branch to git repo // git push origin branchname 
